@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Chowdhury</h1>
-<h3 align="center">👩‍💻Trying to be a engineer</h3>
+<h3 align="center">👩‍💻Trying to be an engineer</h3>
 
 - 🔭 I’m currently working on **Real time ECG analysis**
 
