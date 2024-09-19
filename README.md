@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/originals/71/92/b3/7192b36dadb8d4dd4eb71a4227cc6a95.gif" height="445"/>
 <h1 align="center">Hi 👋, I'm Aishwarya Chowdhury</h1>
 <h3 align="center">👩‍💻Trying to be an engineer</h3>
 
