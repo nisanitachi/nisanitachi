@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/76/92/ee/7692eeddabb7383bb570d8c811f03b78.gif" width="1300">
 <h3 >Hi 👋, I'm Aishwarya Chowdhury</h3>
-<h3 >👩‍💻Trying to be an engineer</h3>
+<h3 >👩‍💻Welcome🙌</h3>
 
 - 🔭 I’m currently working on **Real time ECG analysis**
 
