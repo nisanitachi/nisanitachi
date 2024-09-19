@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/71/92/b3/7192b36dadb8d4dd4eb71a4227cc6a95.gif" height="445"/>
+<img src="https://cdn.discordapp.com/attachments/1223174231936995390/1286167781045178408/7192b36dadb8d4dd4eb71a4227cc6a95_1.gif?ex=66ecec96&is=66eb9b16&hm=03960dd816875db4c7473da9e11aea49662b30ad6fe40a28dd8ec02660cf30c5&">
 <h1 align="center">Hi 👋, I'm Aishwarya Chowdhury</h1>
 <h3 align="center">👩‍💻Trying to be an engineer</h3>
 
