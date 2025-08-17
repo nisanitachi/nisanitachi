@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ML, Matlab and frameworks**
 
-- 📫 How to reach me **rupsaishwarya@gmail.com**
+- 📫 How to reach me **aishwaryachowdhury9918@gmail.com**
 
 
 <p align="left">
